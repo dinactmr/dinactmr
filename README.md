@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/9c9NAMY.png">
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there! 👋 I'm user</h1>
